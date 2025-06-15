@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer480/String/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer480/String/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/sameer480/String/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sameer480/String/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sameer480/String/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer480/String/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/sameer480/String/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sameer480/String/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
