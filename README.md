@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sameer480/String/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sameer480/String/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sameer480/String/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
