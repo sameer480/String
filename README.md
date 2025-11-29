@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sameer480/String/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameer480/String/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameer480/String/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sameer480/String/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameer480/String/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameer480/String/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,10 +117,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sameer480/String/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameer480/String/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameer480/String/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sameer480/String/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameer480/String/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sameer480/String/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
