@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sameer480/String/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sameer480/String/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameer480/String/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sameer480/String/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sameer480/String/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sameer480/String/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameer480/String/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sameer480/String/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -131,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sameer480/String/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sameer480/String/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sameer480/String/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
