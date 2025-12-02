@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sameer480/String/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sameer480/String/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sameer480/String/tree/master/2073-time-needed-to-buy-tickets) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sameer480/String/tree/master/0074-search-a-2d-matrix) |
 | [0739-daily-temperatures](https://github.com/sameer480/String/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/sameer480/String/tree/master/1046-last-stone-weight) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sameer480/String/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sameer480/String/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/sameer480/String/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
