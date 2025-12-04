@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer480/String/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/sameer480/String/tree/master/0070-climbing-stairs) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sameer480/String/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Trie
 |  |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/sameer480/String/tree/master/2073-time-needed-to-buy-tickets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sameer480/String/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sameer480/String/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
