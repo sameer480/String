@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameer480/String/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sameer480/String/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sameer480/String/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sameer480/String/tree/master/0014-longest-common-prefix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameer480/String/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/sameer480/String/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/sameer480/String/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sameer480/String/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameer480/String/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
