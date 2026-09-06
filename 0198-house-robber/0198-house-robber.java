@@ -1,5 +1,4 @@
-class Solution {
-    public int memo(int[] nums,int i,int [] m){
+class Solution { public int memo(int[] nums,int i,int [] m){
         if(i>=nums.length){
             return 0;
         }
@@ -13,7 +12,7 @@ class Solution {
     }
     public int rob(int[] nums) {
         int n =nums.length;
-        int [] m= new int [n];
+        int [] m= new int [n+1];
          Arrays.fill(m, -1);
         return memo(nums,0,m);
         
