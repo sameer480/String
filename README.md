@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer480/String/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sameer480/String/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sameer480/String/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sameer480/String/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sameer480/String/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/sameer480/String/tree/master/0746-min-cost-climbing-stairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sameer480/String/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sameer480/String/tree/master/0033-search-in-rotated-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/sameer480/String/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sameer480/String/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sameer480/String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sameer480/String/tree/master/0198-house-robber) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sameer480/String/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sameer480/String/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
